@@ -16,6 +16,7 @@ Antes de iniciar, instale os seguintes softwares:
 
 ## 📂 Estrutura do Repositório
 
+```bash
 📂 Curso-Java
  ┣ 📂 01-Fundamentos
  ┃ ┣ 📜 variaveis.java
