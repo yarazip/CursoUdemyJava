@@ -33,7 +33,7 @@ Antes de iniciar, instale os seguintes softwares:
  ┃ ┣ 📜 consumo-api-rest.java
  ┃ ┗ 📜 manipulacao-json.java
  ┗ 📜 README.md
-
+```
 
 
 ## 📌 Conteúdo do Curso
