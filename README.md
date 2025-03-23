@@ -35,9 +35,6 @@ Antes de iniciar, instale os seguintes softwares:
  ┗ 📜 README.md
 
 
-markdown
-Copy
-Edit
 
 ## 📌 Conteúdo do Curso
 
