@@ -18,7 +18,7 @@ Antes de iniciar, instale os seguintes softwares:
 
 ```bash
 📂 Curso-Java
- ┣ 📂 01-Fundamentos
+ ┣ 📂 01-Fundamentos (MINHA FASE ATUAL!)
  ┃ ┣ 📜 variaveis.java
  ┃ ┣ 📜 operadores.java
  ┃ ┗ 📜 estruturas-de-controle.java
