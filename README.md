@@ -16,7 +16,23 @@ Antes de iniciar, instale os seguintes softwares:
 
 ## 📂 Estrutura do Repositório
 
-📂 Curso-Java ┣ 📂 01-Fundamentos ┃ ┣ 📜 variaveis.java ┃ ┣ 📜 operadores.java ┃ ┗ 📜 estruturas-de-controle.java ┣ 📂 02-POO ┃ ┣ 📜 classes-e-objetos.java ┃ ┣ 📜 encapsulamento.java ┃ ┗ 📜 heranca-e-polimorfismo.java ┣ 📂 03-Banco-de-Dados ┃ ┣ 📜 conexao-mysql.java ┃ ┗ 📜 crud-jdbc.java ┣ 📂 04-APIs ┃ ┣ 📜 consumo-api-rest.java ┃ ┗ 📜 manipulacao-json.java ┗ 📜 README.md
+📂 Curso-Java
+ ┣ 📂 01-Fundamentos
+ ┃ ┣ 📜 variaveis.java
+ ┃ ┣ 📜 operadores.java
+ ┃ ┗ 📜 estruturas-de-controle.java
+ ┣ 📂 02-POO
+ ┃ ┣ 📜 classes-e-objetos.java
+ ┃ ┣ 📜 encapsulamento.java
+ ┃ ┗ 📜 heranca-e-polimorfismo.java
+ ┣ 📂 03-Banco-de-Dados
+ ┃ ┣ 📜 conexao-mysql.java
+ ┃ ┗ 📜 crud-jdbc.java
+ ┣ 📂 04-APIs
+ ┃ ┣ 📜 consumo-api-rest.java
+ ┃ ┗ 📜 manipulacao-json.java
+ ┗ 📜 README.md
+
 
 markdown
 Copy
@@ -32,6 +48,7 @@ Edit
 ✔️ **Banco de Dados com MySQL e JDBC**  
 ✔️ **Criação e Consumo de APIs REST**  
 ✔️ **Projetos Práticos para Aplicação dos Conceitos**  
+✔️ **Exercícios dos módulos**  
 
 ## 🤝 Contribuição
 
