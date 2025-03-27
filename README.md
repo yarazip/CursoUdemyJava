@@ -19,11 +19,11 @@ Antes de iniciar, instale os seguintes softwares:
 
 ```bash
 📂 Curso-Java
- ┣ 📂 01-Fundamentos (MINHA FASE ATUAL!)
+ ┣ 📂 01-Fundamentos 
  ┃ ┣ 📜 variaveis.java
  ┃ ┣ 📜 operadores.java
  ┃ ┗ 📜 estruturas-de-controle.java
- ┣ 📂 02-POO
+ ┣ 📂 02-POO (MINHA FASE ATUAL!)
  ┃ ┣ 📜 classes-e-objetos.java
  ┃ ┣ 📜 encapsulamento.java
  ┃ ┗ 📜 heranca-e-polimorfismo.java
