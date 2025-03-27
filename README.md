@@ -1,6 +1,6 @@
-# 🚀 Curso Java do Zero ao Profissional
+# 🚀 Curso Java do Zero ao Profissional -ACELERA MAKER MONTREAL
 
-ACELERA MAKER MONTREAL
+
 Bem-vindo ao repositório do curso **Java do Zero ao Profissional** da Udemy! Aqui, você encontrará códigos, exemplos e exercícios para acompanhar e reforçar seu aprendizado.
 
 ## 📖 Sobre o Curso
