@@ -1,9 +1,10 @@
-# 🚀 Curso Java do Zero ao Profissional -ACELERA MAKER MONTREAL
-
+# 🚀 Curso Java do Zero ao Profissional
+## ACELERA MAKER MONTREAL 
+---
 
 Bem-vindo ao repositório do curso **Java do Zero ao Profissional** da Udemy! Aqui, você encontrará códigos, exemplos e exercícios para acompanhar e reforçar seu aprendizado.
 
-## 📖 Sobre o Curso
+## 📖 Sobre o Curso (50% concluído...)
 
 Este curso é ideal para quem deseja aprender **Java** do básico ao avançado. Abordamos conceitos fundamentais, programação orientada a objetos, banco de dados, APIs e muito mais!
 
@@ -19,21 +20,30 @@ Antes de iniciar, instale os seguintes softwares:
 
 ```bash
 📂 Curso-Java
- ┣ 📂 01-Fundamentos 
- ┃ ┣ 📜 variaveis.java
- ┃ ┣ 📜 operadores.java
- ┃ ┗ 📜 estruturas-de-controle.java
- ┣ 📂 02-POO (MINHA FASE ATUAL!)
- ┃ ┣ 📜 classes-e-objetos.java
- ┃ ┣ 📜 encapsulamento.java
- ┃ ┗ 📜 heranca-e-polimorfismo.java
- ┣ 📂 03-Banco-de-Dados
- ┃ ┣ 📜 conexao-mysql.java
- ┃ ┗ 📜 crud-jdbc.java
- ┣ 📂 04-APIs
- ┃ ┣ 📜 consumo-api-rest.java
- ┃ ┗ 📜 manipulacao-json.java
- ┗ 📜 README.md
+┣ 📂 01-Fundamentos
+┃ ┣ 📜 fundamentos.java - Introdução à sintaxe Java, tipos de dados e operadores
+┃ ┣ 📜 estruturas-controle.java - Condicionais e laços de repetição
+┃ ┗ 📜 metodos.java - Declaração e uso de métodos
+┣ 📂 02-POO
+┃ ┣ 📜 classes-objetos.java - Declaração de classes e objetos
+┃ ┣ 📜 encapsulamento.java - Conceito e modificadores de acesso
+┃ ┣ 📜 heranca-polimorfismo.java - Princípios de herança e polimorfismo
+┃ ┗ 📜 interfaces.java - Implementação de interfaces
+┣ 📂 03-Funcional
+┃ ┣ 📜 lambdas.java - Introdução à programação funcional
+┃ ┗ 📜 stream-api.java - Processamento eficiente de coleções
+┣ 📂 04-Excecoes (MINHA FASE ATUAL!)
+┃ ┗ 📜 tratamento-excecoes.java - Blocos try-catch-finally e exceções personalizadas
+┣ 📂 05-JavaFX
+┃ ┗ 📜 interface-grafica.java - Desenvolvimento de aplicações com JavaFX
+┣ 📂 06-Banco-de-Dados
+┃ ┣ 📜 banco-relacional.java - Conexão com MySQL e PostgreSQL usando JDBC
+┃ ┣ 📜 banco-nosql.java - Integração com MongoDB
+┃ ┗ 📜 jpa-hibernate.java - Mapeamento objeto-relacional (ORM)
+┣ 📂 07-SpringBoot
+┃ ┣ 📜 api-rest.java - Criação de APIs REST
+┃ ┗ 📜 injecao-dependencias.java - Uso de injeção de dependências
+┗ 📜 README.md
 ```
 
 
