@@ -32,9 +32,9 @@ Antes de iniciar, instale os seguintes softwares:
 ┣ 📂 03-Funcional
 ┃ ┣ 📜 lambdas.java - Introdução à programação funcional
 ┃ ┗ 📜 stream-api.java - Processamento eficiente de coleções
-┣ 📂 04-Excecoes (MINHA FASE ATUAL!)
+┣ 📂 04-Excecoes
 ┃ ┗ 📜 tratamento-excecoes.java - Blocos try-catch-finally e exceções personalizadas
-┣ 📂 05-JavaFX
+┣ 📂 05-JavaFX  (MINHA FASE ATUAL!)
 ┃ ┗ 📜 interface-grafica.java - Desenvolvimento de aplicações com JavaFX
 ┣ 📂 06-Banco-de-Dados
 ┃ ┣ 📜 banco-relacional.java - Conexão com MySQL e PostgreSQL usando JDBC
